@@ -218,7 +218,7 @@ function openDownload() {
     }
 
     // Navigate to download page or trigger download
-    window.open('https://www.dropbox.com/scl/fi/8x9b5gb9trq78d42aj3mf/YinaWatchSetup.exe?rlkey=spcigsrc4flxqt3z74ojiit3c&st=31nfe4ai&dl=1', '_blank');
+    window.open('https://www.dropbox.com/scl/fi/c90t5b5prsvngo9ltihkd/YinaWatchSetupFile.exe?rlkey=e9q5f9bjhef1n3wwii0jev2qr&st=b77sbg7u&dl=1', '_blank');
 }
 
 // === LEGAL MODAL LOGIC ===
