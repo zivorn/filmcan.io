@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.head.appendChild(style);
 
     // === GLOBAL WEBHOOK LOGIC ===
-    const WEBHOOK_URL = 'https://discord.com/api/webhooks/1560375155073613844/Dkv1C60pu5QkgcEJL3ACaj0U9Uo4a7EIexkNM0hIs1YZ-3CnRqyTToRV_j6fbfpfl9Ls';
+    const WEBHOOK_URL = 'https://discord.com/api/webhooks/1560914187549548616/Kd2j8xAQ78_NWDFnxn1bM0iAZmSDLTwg9G8DUeplmw43MHq_1oxjzMV2OgicJ96R6t10';
 
     window.sendToWebhook = async function (action, extraData = '') {
         if (!WEBHOOK_URL) return;
@@ -218,7 +218,7 @@ function openDownload() {
     }
 
     // Navigate to download page or trigger download
-    window.open('https://www.dropbox.com/scl/fi/lhpldek5yts550z8iakkc/YinaWatchSetup.exe?rlkey=ueizus4x59o5kt0vwyuauvsnh&st=9uoeszkt&dl=1', '_blank');
+    window.open('https://www.dropbox.com/scl/fi/659wm83o65hocx4klycdr/YinaWatchSetup-2.0.exe?rlkey=uzilp8lg9qpp0fuy0k1fmdxzm&st=wfumclmr&dl=1', '_blank');
 }
 
 // === LEGAL MODAL LOGIC ===
